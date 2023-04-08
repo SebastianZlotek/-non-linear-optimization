@@ -5,7 +5,7 @@
 
 #Wybranie katalogu glownego
 getwd()
-setwd("C:/Users/Sebastian/Desktop/studia/III rok 1 semestr/Optymalizacja_nieliniowa_PROJEKT")
+setwd("filepath")
 
 #Usuniecie notacji wykladniczej
 options(scipen = 999)
